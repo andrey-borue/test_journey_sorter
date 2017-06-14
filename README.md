@@ -31,7 +31,7 @@ $collection->addCards(
 );
 
 $first = $collection->sort(); // First point
-$next $first->getNext(); // Next point
+$next  = $first->getNext(); // Next point
 
 // OR
  
